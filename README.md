@@ -1,0 +1,2 @@
+# FinansUp
+Flutter Projesi
